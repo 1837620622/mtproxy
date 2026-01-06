@@ -4,6 +4,7 @@
 # 适用于: Ubuntu 16.04+ / Debian 9+ / CentOS 7+
 # ============================================
 # 作者: 传康kk
+# 网站: www.chuankangkk.top
 # GitHub: https://github.com/1837620622
 # 微信: 1837620622
 # 邮箱: 2040168455@qq.com

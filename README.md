@@ -176,6 +176,7 @@ bash <(curl -sL https://raw.githubusercontent.com/1837620622/mtproxy/main/instal
 Made with ❤️ by [传康kk](https://github.com/1837620622)
 
 **联系方式：**
+- 网站: [www.chuankangkk.top](https://www.chuankangkk.top)
 - 微信: 1837620622
 - 邮箱: 2040168455@qq.com
 - 咸鱼/B站: 万能程序员
