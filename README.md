@@ -173,6 +173,11 @@ bash <(curl -sL https://raw.githubusercontent.com/1837620622/mtproxy/main/instal
 
 **如果这个项目对你有帮助，请给个 ⭐ Star！**
 
-Made with ❤️ by [1837620622](https://github.com/1837620622)
+Made with ❤️ by [传康kk](https://github.com/1837620622)
+
+**联系方式：**
+- 微信: 1837620622
+- 邮箱: 2040168455@qq.com
+- 咸鱼/B站: 万能程序员
 
 </div>

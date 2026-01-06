@@ -2,7 +2,12 @@
 # ============================================
 # MTProxy 一键安装脚本 (无systemd版本)
 # 适用于: Ubuntu 16.04+ / Debian 9+ / CentOS 7+
-# 项目地址: https://github.com/1837620622/mtproxy
+# ============================================
+# 作者: 传康kk
+# GitHub: https://github.com/1837620622
+# 微信: 1837620622
+# 邮箱: 2040168455@qq.com
+# 项目: https://github.com/1837620622/mtproxy
 # ============================================
 
 set -e
@@ -27,6 +32,9 @@ echo "║     ╚═╝     ╚═╝   ╚═╝   ╚═╝     ╚═╝  ╚
 echo "║                                                            ║"
 echo "║              Telegram MTProxy 一键安装脚本                 ║"
 echo "║                   无需systemd版本                          ║"
+echo "║                                                            ║"
+echo "║          GitHub: github.com/1837620622/mtproxy             ║"
+echo "║          作者: 传康kk  微信: 1837620622                    ║"
 echo "║                                                            ║"
 echo "╚════════════════════════════════════════════════════════════╝"
 echo -e "${NC}"
@@ -209,6 +217,11 @@ show_result() {
     echo -e "${CYAN}│${NC}   链接:    ${GREEN}~/mtproxy.sh link${NC}"
     echo -e "${CYAN}│${NC}   日志:    ${GREEN}~/mtproxy.sh log${NC}"
     echo -e "${CYAN}└──────────────────────────────────────────────────────────────┘${NC}"
+    echo ""
+    echo -e "${PURPLE}┌──────────────────────────────────────────────────────────────┐${NC}"
+    echo -e "${PURPLE}│${NC}  GitHub: ${GREEN}https://github.com/1837620622/mtproxy${NC}"
+    echo -e "${PURPLE}│${NC}  作者: ${GREEN}传康kk${NC}  微信: ${GREEN}1837620622${NC}  邮箱: ${GREEN}2040168455@qq.com${NC}"
+    echo -e "${PURPLE}└──────────────────────────────────────────────────────────────┘${NC}"
     echo ""
 }
 
